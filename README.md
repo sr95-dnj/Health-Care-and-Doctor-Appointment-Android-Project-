@@ -1,13 +1,4 @@
-## HealthCare App
-A mobile application that facilitates making appointments and monitoring patients.
 
-## 🤓 Authors
-**Yassine Boujnah** [![Twitter Follow](https://img.shields.io/twitter/follow/yassboujnah.svg?style=social)](https://twitter.com/yassboujnah)
-**Ilyass TARHRI** [![Twitter Follow](https://img.shields.io/twitter/follow/ilyass_trh.svg?style=social)](https://twitter.com/ilyass_trh)
-
-
-Figma [UI design](https://www.figma.com/file/L0xzd81wOR54JDfknXAZaR/HealthCare?node-id=0%3A1)
-<img src="Screenshots/App_ui.png"/>
 
 
 ## Screenshots
